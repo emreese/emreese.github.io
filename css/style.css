@@ -14,7 +14,7 @@ h1 {
 hr {
 	width: 50px;
 	position: fixed;
-	top: 200px;
+	top: 225px;
 	left: 50px;
 	border: 1px solid #fd6e6e;
 }
@@ -24,12 +24,12 @@ p {
 	font-size: 16px;
 	color: #ffffff;
 	position: fixed;
-	top: 250px;
+	top: 275px;
 	left: 50px;	
 }
 
 #appstore {
 	position: fixed;
-	top: 350px;
+	top: 375px;
 	left: 50px;
 }
