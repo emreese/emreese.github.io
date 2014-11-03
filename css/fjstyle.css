@@ -6,12 +6,12 @@ body {
 
 h1 {
 	display: block;
-	padding-top: 50px;
-	padding-left: 75px;
-	padding-bottom: 15px;
+	padding-top: .5em;
+	padding-left: 1.5em;
+	padding-bottom: .5em;
 	font-family: 'Oswald', sans-serif;
 	font-size: 3.5em;
-	letter-spacing: 1.5px;
+	letter-spacing: .05em;
 }
 
 h2 {
@@ -22,23 +22,23 @@ h2 {
 	background-color: #f90623;
 	display: inline;
 	font-weight: normal;
-	padding: 15px;
-	margin-left: 75px;
+	padding: .5em;
+	margin-left: 2.7em;
 }
 
 hr {
 	display: block;
 	width: 475px;
-	margin-left: 75px;
-	margin-top: 75px;
+	margin-left: 5.5em;
+	margin-top: 5em;
 	border: dashed 3px #000000;
 }
 
 p {
 	display: relative;
 	font-family: 'Bookman Old Style', serif;
-	padding-left: 75px;
-	margin-top: 50px;
+	padding-left: 5.5em;
+	margin-top: 2.5em;
 	text-align: justify;
 	width: 475px;
 	line-height: 1.5em;
