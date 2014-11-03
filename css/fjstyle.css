@@ -1,0 +1,44 @@
+body {
+	background-image: url("../images/strawberry.jpg");
+	background-size: cover;
+	background-repeat: no repeat;
+}
+
+h1 {
+	display: block;
+	padding-top: 50px;
+	padding-left: 75px;
+	padding-bottom: 15px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.5em;
+	letter-spacing: 1.5px;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em;
+	color: #ffffff;
+	background-color: #f90623;
+	display: inline;
+	font-weight: normal;
+	padding: 15px;
+	margin-left: 75px;
+}
+
+hr {
+	display: block;
+	width: 475px;
+	margin-left: 75px;
+	margin-top: 75px;
+	border: dashed 3px #000000;
+}
+
+p {
+	display: relative;
+	font-family: 'Bookman Old Style', serif;
+	padding-left: 75px;
+	margin-top: 50px;
+	text-align: justify;
+	width: 475px;
+	line-height: 1.5em;
+}
