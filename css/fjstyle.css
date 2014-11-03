@@ -17,6 +17,7 @@ h1 {
 h2 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
+	font-weight: lighter;
 	color: #ffffff;
 	background-color: #f90623;
 	display: inline;
