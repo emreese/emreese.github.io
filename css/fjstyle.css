@@ -2,20 +2,20 @@ body {
 	background-image: url("../images/strawberry.jpg");
 	background-size: cover;
 	background-repeat: no repeat;
+		background-repeat: no-repeat;
+	font-family: 'Oswald', sans-serif;
+	color: #444544;
 }
 
 h1 {
-	display: block;
 	padding-top: .5em;
 	padding-left: 1.5em;
 	padding-bottom: .5em;
-	font-family: 'Oswald', sans-serif;
 	font-size: 3.5em;
 	letter-spacing: .05em;
 }
 
 h2 {
-	font-family: 'Oswald', sans-serif;
 	font-size: 2em;
 	font-weight: lighter;
 	color: #ffffff;
@@ -28,18 +28,19 @@ h2 {
 
 hr {
 	display: block;
-	width: 475px;
 	margin-left: 5.5em;
 	margin-top: 5em;
 	border: dashed 3px #000000;
 }
 
 p {
-	display: relative;
 	font-family: 'Bookman Old Style', serif;
 	padding-left: 5.5em;
 	margin-top: 2.5em;
 	text-align: justify;
-	width: 475px;
 	line-height: 1.5em;
+}
+
+#wrapper {
+	width: 600px;
 }
