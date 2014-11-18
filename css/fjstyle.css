@@ -1,46 +1,31 @@
 body {
-	background-image: url("../images/strawberry.jpg");
+	background-image: url("../images/fondue.jpg");
+	background-repeat: no-repeat;
 	background-size: cover;
-	background-repeat: no repeat;
-		background-repeat: no-repeat;
 	font-family: 'Oswald', sans-serif;
-	color: #444544;
-}
-
-h1 {
-	padding-top: .5em;
-	padding-left: 1.5em;
-	padding-bottom: .5em;
-	font-size: 3.5em;
-	letter-spacing: .05em;
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	font-weight: lighter;
-	color: #ffffff;
-	background-color: #f90623;
-	display: inline;
-	font-weight: normal;
-	padding: .5em;
-	margin-left: 2.7em;
 }
 
-hr {
-	display: block;
-	margin-left: 5.5em;
-	margin-top: 5em;
-	border: dashed 3px #000000;
+hr{
+	text-align: center;
+	width: 100%;
 }
 
 p {
 	font-family: 'Bookman Old Style', serif;
-	padding-left: 5.5em;
-	margin-top: 2.5em;
 	text-align: justify;
-	line-height: 1.5em;
+	line-height: 1.3em;
+	font-size: 95%;
+	text-align: center;
 }
 
-#wrapper {
-	width: 600px;
+#wrapper{
+	color: #ffffff;
+	width: 37%;
+	text-align: center;
+	padding: 15% 15% 15% 55%;
 }
