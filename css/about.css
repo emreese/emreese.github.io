@@ -27,36 +27,35 @@ a:hover {
 	font-family: 'lane_-_poshregular', Arial, sans-serif;
 }
 
-.column {
+#wrapper {
+	margin: 2%;
+	background-color: #ffffff;
+}
+
+img #wrapper {
+	margin: 3%;
 	float: left;
-	width: 28%;
-	margin: 0;
-	text-align: center;
-	margin: 3% 1.5%;
 }
 
-#column1 {
-	background-color: red;
-	margin-left: 3%;
-}
-
-#column2 {
-	background-color: blue;
-}
-
-#column3 {
-	background-color: purple;
-	margin-right: 3%;
-}
-
-
-hr {
-	width: 100%;
-	border: 1px solid #8d8d8a;
+p {
+	
 }
 
 footer {
 	text-align: center;
 	padding: 1%;
 	background-color: #2881A6;
+}
+
+@media only screen and (max-width: 480px) {
+	#wrapper {
+		float: none;
+		width: 95%;
+	}
+	img {
+		float: ;
+		padding: ;
+		width: 90%;
+		height: 90%;
+	}
 }

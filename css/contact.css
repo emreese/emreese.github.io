@@ -1,20 +1,20 @@
-nav {
-	background-color: #ffffff;
+header {
 	font-family: 'lane_-_narrowregular', Arial, sans-serif;
-	text-align: right;
-	margin-right: 5%;
-	display: block;
-	vertical-align: baseline;
-	margin: 0;
-	padding: 0;
-	border: 0;
+	float: right;
+	width: 100%;
+	background-color: #2881A6;
+}
+
+li {
+	list-style: none;
+	margin-top: 1%;
+	margin-right: 3%;
+	float: right;
 }
 
 a {
-	background-color: #ffffff;
-	color: #2881A6;
+	color: #ffffff;
 	text-decoration: none;
-	display: inline;
 	margin-right: 4%;
 }
 
@@ -28,5 +28,7 @@ a:hover {
 }
 
 footer {
-
+	text-align: center;
+	padding: 1%;
+	background-color: #2881A6;
 }
